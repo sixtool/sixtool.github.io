@@ -1,7 +1,7 @@
 # spring-boot-hbase-example
 ## 1，搭建hbase环境   
-      废话不多说，直接上docker镜像安装，运行，hbase环境搭建完毕，这里就不细写hbase环境如何搭建，docker是个好东西，下面来介绍docker开启hbase环境的
-      这里安装启动docker省去，直接上docker命令
+废话不多说，直接上docker镜像安装，运行，hbase环境搭建完毕，这里就不细写hbase环境如何搭建，docker是个好东西，下面来介绍docker开启hbase环境的   
+这里安装启动docker省去，直接上docker命令   
 ``` sh
 #拉取容器
 docker pull harisekhon/hbase
