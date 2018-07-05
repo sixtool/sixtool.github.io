@@ -10,11 +10,11 @@ docker run -d -h myhbase -p 2181:2181 -p 8080:8080 -p 8085:8085 -p 9090:9090 -p 
 ```
 简单介绍上述命令参数如下：
 
-> -d表示后台 
-> -h 定义容器host 
-> -p表示端口映射 
-> –name 表示容器别名 (我这里命名hbase1.3) 
-> harisekhon/hbase是image镜像
+> -d表示后台    
+> -h 定义容器host    
+> -p表示端口映射    
+> –name 表示容器别名 (我这里命名hbase1.3)    
+> harisekhon/hbase是image镜像   
 
 ## 2，修改host文件，等会开发要使用域名
 ``` sh
