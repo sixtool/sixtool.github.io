@@ -55,6 +55,9 @@ output {
 6,看到如下界面，到此安装结束。
 ![](/assets/images/2018/7-6/kbin201231242343homepage.png)
 
-7,再看看从spring boot 收集回来的日志
+7,看看从spring boot 收集回来的日志
 ![](/assets/images/2018/7-6/kbin2012312423432.png)
 ![](/assets/images/2018/7-6/kbin201231242343search.png)
+
+8,看看elk架构图
+![](/assets/images/2018/7-6/xxx-docker-overview.png)
