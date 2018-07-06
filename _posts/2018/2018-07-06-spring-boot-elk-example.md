@@ -50,14 +50,14 @@ output {
 3,当命令成功被执行后，看到：Successfully started Logstash API endpoint {:port=>9600} 信息后，输入：this is a dummy entry 然后回车，模拟一条日志进行测试。   
 4,打开浏览器，输入：http://localhost:9200/_search?pretty 如图，就会看到我们刚刚输入的日志内容      
 ![](/assets/images/2018/7-6/QQ20180706-181149@2x.png)   
-5,打开浏览器，输入http://localhost:5601 点击创建 index
-![](/assets/images/2018/7-6/kbin201231242343233.png)
-6,看到如下界面，到此安装结束。
-![](/assets/images/2018/7-6/kbin201231242343homepage.png)
+5,打开浏览器，输入http://localhost:5601 点击创建 index      
+![](/assets/images/2018/7-6/kbin201231242343233.png)   
+6,看到如下界面，到此安装结束。   
+![](/assets/images/2018/7-6/kbin201231242343homepage.png)   
 
-7,看看从spring boot 收集回来的日志
-![](/assets/images/2018/7-6/kbin2012312423432.png)
-![](/assets/images/2018/7-6/kbin201231242343search.png)
+7,看看从spring boot 收集回来的日志   
+![](/assets/images/2018/7-6/kbin2012312423432.png)   
+![](/assets/images/2018/7-6/kbin201231242343search.png)   
 
 8,看看elk架构图
 ![](/assets/images/2018/7-6/xxx-docker-overview.png)
