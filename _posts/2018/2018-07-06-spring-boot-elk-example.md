@@ -28,4 +28,4 @@ docker run -d -p 5044:5044 -p 127.0.0.1:5601:5601 -p 127.0.0.1:9200:9200 -p 127.
 
 > 3,当命令成功被执行后，看到：Successfully started Logstash API endpoint {:port=>9600} 信息后，输入：this is a dummy entry 然后回车，模拟一条日志进行测试。   
 > 4,打开浏览器，输入：http://localhost:9200/_search?pretty 如图，就会看到我们刚刚输入的日志内容   
-![](/assets/images/2018/7-4/image2018-7-4_14_2_25.png.jpeg)
+![](/assets/images/2018/7-6/QQ20180706-181149@2x.png)
