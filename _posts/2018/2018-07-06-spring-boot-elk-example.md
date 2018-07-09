@@ -6,7 +6,7 @@
 ``` sh
 #拉取容器
 docker pull sebp/elk
-#启动容品
+#启动容品,注意如果对elk有版本要求，请参数官网提供的标签，如sebp/elk:550,代表es表版为5.5.0
 docker run -d -p 5044:5044 -p 127.0.0.1:5601:5601 -p 127.0.0.1:9200:9200 -p 127.0.0.1:9300:9300 -v /Users/winfan/desktop/data/elk:/var/lib/elasticsearch --name=elk sebp/elk
 ```
  简单介绍上述命令参数如下：
