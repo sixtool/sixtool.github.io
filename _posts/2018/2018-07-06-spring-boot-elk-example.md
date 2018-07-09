@@ -1,6 +1,7 @@
 # spring boot elk example
 ## 搭建elk环境
 
+ 实验版本说明：spring boot 1.5.x,  ElasticSearch 6.3.0 (截至目前为止，spring官方暂未提供良好的接口查询，但如果只是用于logback和logstash日志收集可以用的，如果要用spring boot 查询 es统计，数据，做curd，请绕开)
 
 ``` sh
 #拉取容器
