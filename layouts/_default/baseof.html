@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/index.css"> 
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div id="app">
+        <nav>
+            {{ $currentURL := .RelPermalink }}
+            {{ range .Site.Menus.main.ByWeight }}
+                <a class="el-button {{ if eq $currentURL .URL }}active{{ end }}" href="{{ .URL }}"  data-url="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+        </nav>
+        
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+   </div>
+<!-- Vue.js -->
+<script src="/js/3.3.4_dist_vue.global.js"></script>
+<!-- Element UI -->
+<script src="/js/2.3.14_dist_index.full.js"></script>
+<!-- Your main script -->
+<script src="/js/main.js"></script>
+</body>
+</html>

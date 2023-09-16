@@ -1,0 +1,109 @@
+569|black|黑色的|
+570|blue|蓝色的|
+571|green|绿色的|
+572|red|红色的|
+573|white|白色的|
+574|yellow|黄色的|
+575|and|和同|
+576|ball|球|
+577|colour|颜色|
+579|candy|糖果|
+580|ice cream|冰淇淋|
+581|lemon|柠檬|
+582|how|怎么怎样|
+583|orange|橙色的|
+584|sour|酸的|
+585|sweet|甜的|
+586|taste|味道尝|
+588|bike|自行车|
+589|bus|公共汽车巴士|
+590|plane|飞机|
+591|ship|船|
+592|car|小汽车|
+593|train|火车|
+594|can|能|
+595|hear|听见|
+596|listen|听|
+598|bear|熊|
+599|elephant|象|
+600|lion|狮子|
+601|monkey|猴子|
+602|panda|熊猫|
+603|tiger|老虎|
+604|like|像喜欢|
+605|man men|男人复数|
+606|old|旧的老的|
+607|our|我们的|
+608|strong|强壮的坚固的|
+610|kite|风筝|
+611|robot|机器人|
+612|toy bear|玩具熊|
+613|fun|乐趣|
+614|lovely|可爱的|
+615|play|玩|
+616|sorry|对不起|
+618|biscuit|饼干|
+619|bread|面包|
+620|egg|鸡蛋|
+621|juice|果汁|
+622|milk|牛奶|
+623|water|水|
+624|breakfast|早餐|
+625|child children|孩子复数|
+626|have|有|
+627|some|一些|
+628|too|也还|
+629|we|我们|
+631|dance|跳舞|
+632|paint|用颜料画|
+633|read|阅读|
+634|sing|唱歌|
+635|skate|滑冰|
+636|swim|游泳|
+637|at home|在家|
+638|come in|进来|
+639|sleep|睡觉|
+640|work|工作|
+641|worker|劳动者|
+643|cake|蛋糕|
+644|card|卡卡片|
+645|noodle|面条|
+646|birthday|生日|
+647|dear|亲爱的|
+648|for|给为了|
+649|how old|多大年纪|
+650|to|给向|
+652|cow|母牛|
+653|horse|马|
+654|pig|猪|
+655|sheep sheep|绵羊复数|
+656|bye|再见|
+657|farm|农场|
+658|grass|草|
+659|great|很好的很棒的|
+660|litter|乱扔垃圾|
+661|stone|石头|
+662|throw|扔|
+664|head|头|
+665|body|身体|
+666|arm|手臂|
+667|hand|手|
+668|leg|腿|
+669|foot feet|脚足复数|
+671|flower|花|
+672|photo|照片|
+673|tea|茶|
+674|cup|杯子|
+675|day|天日|
+676|do|做|
+677|idea|主意|
+678|love|爱|
+680|afraid of|害怕|
+681|bad|坏的|
+682|go|去走|
+683|house|房屋|
+684|little|小的|
+685|make|做|
+686|now|现在|
+687|there|那里|
+688|very|很非常|

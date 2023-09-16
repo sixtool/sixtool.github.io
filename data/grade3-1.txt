@@ -1,0 +1,112 @@
+445|hello|你好|
+446|I|我|
+447|Miss|小姐|
+448|Hello|你好|
+449|Good morning|早上好|
+451|are|是|
+452|fine|健康的身体很好的|
+453|goodbye|再见|
+454|hi|用于打招呼喂你好|
+455|Mr|先生|
+456|Mrs|太太|
+457|thank|谢谢|
+458|you|你你们|
+459|How are you|你好么|
+460|I m fine Thank you|我很好谢谢|
+461|Goodbye|再见|
+462|Hi|你好|
+464|am|是|
+465|girl|女孩|
+466|no|不不是|
+467|not|不是|
+468|yes|是对|
+470|fat|胖的|
+471|friend|朋友|
+472|he|他|
+473|is|是|
+474|my|我的|
+475|she|她|
+476|short|矮的|
+477|tall|高的|
+478|thin|瘦的|
+479|this|这这个|
+481|beautiful|漂亮的|
+482|brother|哥哥弟弟|
+483|father|父亲爸爸|
+484|me|我|
+485|mother|母亲妈妈|
+486|sister|姐姐妹妹|
+487|who|谁|
+489|big|大的|
+490|ear|耳朵|
+491|eye|眼睛|
+492|face|脸面孔|
+493|hair|头发|
+494|long|长的|
+495|look|看|
+496|mouth|口嘴巴|
+497|small|小的|
+499|blackboard|黑板|
+500|clean|把擦干净打扫|
+501|close|关上|
+502|door|门|
+503|late|迟到|
+504|look at|看|
+505|open|打开|
+506|please|请|
+507|the|表示特指|
+508|window|窗窗户|
+509|OK|好|
+511|a an|一一个|
+512|apple|苹果|
+513|banana|香蕉|
+514|dad|爸爸|
+515|good|好|
+516|here|这里|
+517|how much|用于问价钱多|
+518|it|它|
+519|orange|桔子|
+520|they|它们他们她们|
+521|Here you are|给你|
+522|Good afternoon|下午好|
+524|bed|床|
+525|book|书|
+526|chair|椅子|
+527|desk|书桌|
+528|mum|妈妈|
+529|pen|钢笔|
+530|pencil|铅笔|
+531|ruler|尺|
+532|Schoolbag|书包|
+533|these|这些|
+534|your|你的你们的|
+535|Welcome|欢迎|
+537|eight|八|
+538|five|五|
+539|four|四|
+540|how many|用于问数量多少|
+541|nine|九|
+542|one|一|
+543|seven|七|
+544|six|六|
+545|ten|十|
+546|three|三|
+547|two|二|
+548|Very good|很好|
+550|cat|猫|
+551|dog|狗|
+552|fish|鱼|
+553|its|它的|
+554|mouse mice|老鼠复数|
+555|rabbit|兔子|
+556|tail|尾巴|
+557|what|什么|
+558|Well done|做得真好|
+560|autumn|秋天|
+561|cold|寒冷的|
+562|cool|凉爽的|
+563|hot|炎热的|
+564|in|在某段时间内|
+565|spring|春天|
+566|summer|夏天|
+567|warm|温暖的|

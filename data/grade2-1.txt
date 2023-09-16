@@ -1,0 +1,87 @@
+247|good|好的|
+248|morning|早晨|
+249|today|今天|
+250|very well|很好非常好|
+251|ant|蚂蚁|
+252|bear|熊|
+254|tall|高的|
+255|short|矮的|
+256|boy|男孩|
+257|girl|女孩|
+258|big|大的|
+259|small|小的|
+261|sorry|对不起请原谅|
+262|elephant|大象|
+264|swim|游泳|
+265|run|跑|
+266|write|书写写字|
+267|fly|飞飞翔|
+268|ride a bicycle|骑自行车|
+270|family|家庭家|
+271|brother|哥哥弟弟|
+272|sister|姐姐妹妹|
+273|friend|朋友|
+274|young|年轻的|
+275|insect|昆虫|
+276|jellyfish|水母|
+278|hair|头发|
+279|head|头|
+280|your|你的|
+281|long|长的|
+282|now|现在|
+283|look|看|
+284|has|有|
+286|playground|游戏场|
+287|slide|滑梯|
+288|swing|秋千|
+289|seesaw|跷跷板|
+290|nightingale|夜莺|
+292|room|房间|
+293|put|放|
+294|the|这|
+295|in|在里面|
+296|bag|包|
+297|box|箱子盒子|
+298|on|在上面|
+299|chair|椅子|
+300|desk|书桌|
+301|look at|看|
+302|pencil case|铅笔盒|
+303|work|工作干活|
+304|sleep|睡觉|
+306|dinner|正餐晚餐|
+307|ready|准备|
+308|plate|盘子碟子|
+309|chopsticks|筷子|
+310|bowl|碗|
+311|spoon|调羹|
+312|queen bee|蜂王蜂后|
+313|fly around|飞来飞去|
+314|run around|跑来跑去|
+316|sky|天空|
+317|moon|月亮|
+318|bright|明亮的|
+319|sun|太阳|
+320|star|星|
+321|snake|蛇|
+322|king|国王|
+324|forest|森林|
+325|fox|狐狸|
+326|meat|肉类|
+327|hippo|河马|
+328|grass|草|
+329|wild|野生的|
+330|animal|动物|
+331|cute|可爱的|
+332|so|这么那么所以|
+333|dove|鸽子|
+334|swan|天鹅|
+336|street|大街街道|
+337|don t do not|不要|
+338|pick|摘采|
+339|climb|爬|
+340|tree|树|
+341|cut|切割剪|
+342|nice|友好的|
+343|beautiful|美丽的|
+344|cry|哭泣|

@@ -1,0 +1,150 @@
+838|touch|触摸|
+839|feel|摸起来感到|
+840|soft|柔软的|
+841|hard|坚硬的|
+842|thick|厚的粗的|
+843|thin|薄的细的|
+844|blind|瞎的失明的|
+845|noise|响声吵闹声|
+846|young|年轻的|
+848|smell|闻嗅|
+849|strawberry|草莓|
+850|or|或者还是|
+851|watermelon|西瓜|
+852|grape|葡萄|
+853|fox|狐狸|
+854|round|圆的|
+855|purple|紫色的|
+856|wait|等待等候|
+857|minute|一会儿分钟|
+858|get|得到|
+859|those|那些|
+861|rise|升起|
+862|shadow|影子|
+863|noon|中午|
+864|high|高的|
+865|sky|天空|
+866|evening|傍晚晚上|
+867|again|再又|
+868|night|夜晚|
+869|moon|月亮|
+870|him|他|
+871|stop|停下|
+872|at noon|在中午|
+873|go down|落下|
+874|at night|在夜晚|
+875|take a walk|散步|
+877|subject|学科科目|
+878|lesson|课|
+879|Chinese|语文|
+880|Maths|数学|
+881|English|英语|
+882|Science|科学|
+883|PE|体育|
+884|Music|音乐|
+885|Art|美术|
+886|timetable|课程表时间表|
+887|from|从来自|
+888|a m|上午|
+889|p m|下午|
+890|break|休息|
+891|from|从|
+892|to|到|
+894|sport|体育运动|
+895|football|足球|
+896|club|俱乐部兴趣小组|
+897|join|参加加入|
+898|tell about|告诉关于|
+899|basketball|篮球|
+900|volleyball|排球|
+901|us|我们|
+902|table tennis|乒乓球运动|
+903|play football|踢足球|
+904|play basketball|打篮球|
+905|play volleyball|打排球|
+907|wonderful|使人愉悦的绝妙的|
+908|violin|小提琴|
+909|guitar|吉他|
+910|whose|谁的|
+911|piano|钢琴|
+912|city|城市|
+913|bag|袋子|
+914|gold|金子|
+915|all|全部所有|
+916|play the violin|拉小提琴|
+917|play the guitar|弹吉他|
+919|O clock|点钟|
+920|quarter|一刻钟|
+921|time|时间|
+922|half|半一半|
+923|wash|洗|
+924|dinner|晚餐正餐|
+925|start|开始|
+926|catch|捉住|
+927|get up|起床|
+928|brush teeth|刷牙|
+929|half past|点半|
+930|have breakfast|吃早餐|
+931|go to school|去上学|
+932|wash face|洗脸|
+933|have lunch|吃午餐|
+934|have dinner|吃晚餐|
+935|go to bed|上床睡觉|
+937|week|星期|
+938|Monday|星期一|
+939|with|和一起|
+940|Tuesday|星期二|
+941|Wednesday|星期三|
+942|Thursday|星期四|
+943|Friday|星期五|
+944|game|游戏|
+945|Saturday|星期六|
+946|Sunday|星期天|
+947|clock|时钟钟|
+948|play chess|下国际象棋|
+949|at the weekend|在周末|
+950|be late for|迟到|
+952|China|中国|
+953|talk|谈话说话|
+954|May|五月|
+955|June|六月|
+956|January|一月|
+957|February|二月|
+958|March|三月|
+959|April|四月|
+960|July|七月|
+961|August|八月|
+962|September|九月|
+963|October|十月|
+964|November|十一月|
+965|December|十二月|
+966|email|电子邮件|
+967|hat|帽子|
+968|wear|穿戴|
+969|yours|你的你们的|
+970|every year|每年|
+972|garden|花园|
+973|plant|植物|
+974|leaf leaves|叶子复数|
+975|water|给浇水|
+976|them|它们他们她们|
+977|grow|使生长成长|
+978|seed|种子|
+979|every day|每天|
+981|song|歌曲|
+982|zoo|动物园|
+983|cinema|电影院|
+984|museum|博物馆|
+985|also|也还|
+986|have a party|举办聚会|
+988|ugly|丑的丑陋的|
+989|duckling|小鸭|
+990|duck|鸭子|
+991|river|河江|
+992|baby|宝宝婴儿|
+993|later|后来以后|
+994|quack|嘎嘎|
+995|back|背背部|
+996|away|去别处朝另一个方向|
+997|swan|天鹅|
+998|into|朝向到里面|

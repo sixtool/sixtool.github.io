@@ -1,0 +1,41 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;  /* Make sure the nav is above other elements */
+  background-color: #fff;  /* Add background color */
+}
+
+/* 设定列表样式 */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* 设定列表项样式 */
+li {
+  line-height: 2em; /* 行高 */
+  display: flex;
+  align-items: center; /* 垂直居中 */
+  justify-content: flex-start; /* 水平左对齐 */
+  border-bottom: 1px solid #ccc; /* 可选：添加分隔线 */
+}
+.el-button {
+  /* 模仿Element UI按钮样式 */
+  margin: 5px;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+.el-button.active {
+  background-color: #409EFF;  /* Element UI主要颜色 */
+  color: #fff;
+}
+
+.active {
+  background-color: #409EFF;  /* Element UI的主色调 */
+  color: #fff;
+}

@@ -1,0 +1,37 @@
+{{ define "main" }}
+    {{ $dataFile := .Params.dataFile }}
+    {{ with $dataFile }}
+        {{ $filePath := printf "data/%s.txt" . }}
+        {{ $dataContent := readFile $filePath }}
+        {{ $lines := split $dataContent "\n" }}
+        
+        <ul>
+              {{ range $lines }}
+                {{ $fields := split . "|" }}
+                {{ if and (index $fields 1) (index $fields 2) (index $fields 3) }}
+                    <li>
+                        <span>{{ index $fields 1 }}</span>,
+                        <span>{{ index $fields 2 }}</span>,
+                        <span>{{ index $fields 3 }}</span>
+                        <audio controls>
+                          <source src="{{ printf "/audio/%s.mp3" (index $fields 0) }}" type="audio/mp3">
+                          您的浏览器不支持音频播放。
+                        </audio>
+                    </li>
+                {{ end }}
+              {{ end }}
+      
+        </ul>
+    {{ else }}
+        <p>没有找到相关的数据文件。</p>
+    {{ end }}
+
+    <script>
+      function playAudio(url) {
+        let audio = new Audio(url);
+        audio.play();
+      }
+    </script>
+    
+{{ end }}
+

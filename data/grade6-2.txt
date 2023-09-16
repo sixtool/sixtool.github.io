@@ -1,0 +1,137 @@
+1489|weigh|有重重|
+1490|kilogram|千克公斤|
+1491|centimetre|厘米|
+1492|taller|更高的|
+1493|fan|迷爱好者|
+1494|fantastic|极好的|
+1495|themselves|他们自己她们自己|
+1496|theatre|它们自己剧院|
+1497|go fishing|去钓鱼|
+1498|enjoy oneself|玩得愉快得到乐趣|
+1499|get in|收割|
+1501|life|生活|
+1502|writer|作家|
+1503|photographer|摄影师|
+1504|film|胶卷|
+1505|digital|数码的|
+1506|street cleaner|环卫工人|
+1507|sweep|扫地|
+1508|broom|扫帚|
+1509|drive|驾驶|
+1510|wife|妻子|
+1511|street sweeper|扫地车|
+1512|poor|贫穷的差的次的|
+1513|fairy|仙子小精灵|
+1514|wish|愿望祝愿|
+1515|by hand|用手|
+1516|right away|立即马上|
+1517|in a short time|很快|
+1519|carry|背提拿|
+1520|online|在线地在线的|
+1521|head teacher|校长|
+1522|ps|附言用于信末|
+1523|mountain|山山脉|
+1524|even|甚至|
+1525|space|太空|
+1526|dinosaur|恐龙|
+1527|a piece of|一张一片|
+1528|have a picnic|去野餐|
+1529|better and better|越来越好|
+1531|oil|没|
+1532|oil painting|油画|
+1533|powerful|强有力的力量大的|
+1534|ink|墨水墨汁|
+1535|Chinese ink painting|中国水墨画|
+1536|brush|画笔刷子刷|
+1537|paints|绘画颜料|
+1538|artist|艺术家画家|
+1539|unhappy|不高兴的|
+1540|carefully|仔细地|
+1541|on the left|在左边|
+1542|on the right|在右边|
+1543|all the time|一直始终|
+1545|craft|手艺工艺|
+1546|crown|王冠皇冠|
+1547|scissors|剪刀|
+1548|tape|胶带|
+1549|glue|胶水|
+1550|saw|锯|
+1551|craftsman|工匠手艺人|
+1552|tool|工具|
+1553|easily|容易地|
+1554|himself|他自己|
+1555|still|仍然|
+1556|model house|房子模型|
+1557|a long time ago|很久以前|
+1558|at work|忙着做事情|
+1559|say to oneself|自言自语|
+1561|long race|长跑|
+1562|short race|短跑|
+1563|win|获胜赢|
+1564|long jump|跳远|
+1565|high jump|跳高|
+1566|swimsuit|游泳衣|
+1567|swimming cap|游泳帽|
+1568|swimming pool|游泳池|
+1569|warm up|准备活动热身练习|
+1570|fit|健壮的|
+1571|swimming goggles|游泳镜|
+1573|bell|铃铛|
+1574|neck|脖子|
+1575|ago|以前|
+1576|gatekeeper|门卫|
+1577|praise|赞扬称赞|
+1578|praise for|因而表扬|
+1580|sign|标识|
+1581|middle|中间中部中心|
+1582|special|特别的|
+1583|path|小路小径|
+1584|may|可能可以|
+1585|lost|迷路的迷失的|
+1586|worry|担心|
+1587|follow|跟随跟着|
+1588|in the middle|在中间|
+1589|look out|小心当心|
+1590|no smoking|禁止吸烟|
+1591|no swimming|禁止游泳|
+1592|get lost|迷路|
+1593|some time|一段时间|
+1594|on the way|在路上|
+1596|reuse|重新利用|
+1597|can|金属罐|
+1598|rubber|橡皮|
+1599|vase|花瓶|
+1600|pen holder|笔筒|
+1601|envelope|信封|
+1602|plastic|塑料制的塑料的|
+1603|rubbish bin|垃圾桶|
+1604|truck|卡车|
+1605|piece|碎片碎块|
+1606|cloth|布；布料|
+1607|throw away|扔掉|
+1609|fairy tale|童话|
+1610|adult|成年人|
+1611|well known|众所周知的著名的|
+1612|stronger|更强大的|
+1613|than|比|
+1614|scarf scarves scarfs|围巾复数或|
+1615|blow off|吹掉|
+1616|take off|脱掉|
+1618|Western|西方的|
+1619|turkey|火鸡|
+1620|bright|明亮的鲜艳的|
+1621|laugh at|嘲笑|
+1622|jack o lantern|南瓜灯|
+1624|pea|豌豆|
+1625|pod|豆荚|
+1626|forever|永远|
+1627|bigger|更大的|
+1628|excited|兴奋的|
+1629|bullet|子弹|
+1630|lazy|懒惰的|
+1631|roof|屋顶|
+1632|yard|院子|
+1633|hit|碰撞撞击|
+1634|see the world|见世面|
+1635|one by one|一个接一个地|
+1636|look out of|往外看|

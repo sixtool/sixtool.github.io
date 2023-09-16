@@ -1,0 +1,87 @@
+346|are|是|
+347|brown|棕色的褐色的|
+348|white|白色的|
+349|black|黑色的|
+351|feel|感觉摸起来摸|
+352|touch|触摸碰|
+353|hard|坚硬的|
+354|soft|软的柔软的|
+355|happy|开心的快乐的|
+356|guess|猜|
+357|pencil case|铅笔盒|
+358|open|打开开|
+359|watch|手表|
+361|train|火车列车|
+362|ship|大船|
+363|car|小汽车|
+364|bus|公共汽车|
+365|beside|在旁边|
+366|window|窗户|
+367|can t|不能|
+369|thing|东西物|
+370|running|跑步|
+371|skating|滑冰滑板|
+372|hopping|单脚跳行|
+373|riding|驾驶骑|
+374|skate|滑|
+375|skipping|跳绳|
+376|flying|飞翔|
+377|swimming|游泳|
+378|too|太也|
+379|let s|让我们|
+380|together|在一起共同|
+382|would like|愿意喜欢|
+383|some|一些|
+384|salad|色拉|
+385|sure|当然|
+386|fish|鱼鱼肉|
+387|chicken|鸡|
+388|nice|令人愉快的|
+390|zebra|斑马|
+391|giraffe|长颈鹿|
+392|snake|蛇|
+393|elephant|大象|
+394|lion|狮子|
+395|toy shop|玩具店|
+396|toy|玩具|
+398|autumn|秋天|
+399|cool|凉爽的|
+400|winter|冬天|
+401|cold|寒冷的|
+402|fly a kite|放风筝|
+403|eat|吃|
+404|fruit|水果|
+405|sleeping|睡觉|
+407|traffic|交通|
+408|rule|规则规章|
+409|light|灯电灯|
+410|stop|停止停下|
+411|go|去走|
+412|wait|等等待|
+414|sweater|毛衣线衣|
+415|shirt|衬衫|
+416|coat|外套大衣|
+417|trousers|裤子|
+419|play yo yo|玩溜溜球|
+420|play cards|打牌|
+421|play football|踢足球|
+423|Teacher s Day|教师节|
+424|teacher|教师|
+425|today|今天|
+426|September|九月|
+427|idea|想法主意|
+428|card|卡片贺卡|
+429|balloon|气球|
+430|blow|吹吹气|
+431|tie|系绑|
+433|go out|外出|
+434|hungry|饥饿|
+435|thirsty|口渴的|
+436|tired|疲倦的疲劳的|
+437|house|房屋房子|
+438|want|想要要|
+439|milk|牛奶|
+440|bread|面包|
+441|want to|想做某事|
+442|bed|床|
+443|little|小的|

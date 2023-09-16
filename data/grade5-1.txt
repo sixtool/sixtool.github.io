@@ -1,0 +1,160 @@
+1000|future|将来未来|
+1001|want|想要|
+1002|pilot|飞行员|
+1003|teach|教课|
+1004|cook|厨师烹饪|
+1005|taxi driver|出租车司机|
+1006|job|工作职业|
+1007|singer|歌手|
+1008|fall|掉落落下|
+1009|lifeguard|救生员|
+1010|save|救救助节约|
+1011|become|变成变得|
+1012|be good at|擅长|
+1014|by|表示方式靠近|
+1015|walk|走步行|
+1016|Ms|女士|
+1017|journey|旅程旅行|
+1018|primary school|小学|
+1019|underground|地铁|
+1020|station|车站|
+1021|take|乘坐交通工具带领|
+1022|after|在后|
+1023|hour|小时|
+1024|bus stop|公共汽车站|
+1025|by bus|乘公共汽车|
+1026|far from|离远|
+1027|on foot|步行|
+1028|by bike|骑自行车|
+1029|by car|乘小汽车|
+1030|get off|下车|
+1032|party|聚会|
+1033|when|什么时候|
+1034|begin|开始|
+1035|bring|带来|
+1036|thing|东西事物|
+1037|favourite|最喜欢的|
+1038|interesting|有趣的|
+1039|hat|帽子|
+1040|have fun|尽情玩|
+1042|usually|通常|
+1043|often|经常|
+1044|visit|看望拜访参观|
+1045|sometimes|有时|
+1046|always|总是一直|
+1047|never|从不|
+1048|play sport|做运动|
+1049|go shopping|去购物|
+1051|clever|聪明的|
+1052|same|相同的|
+1053|class|班班级|
+1054|both|两个都|
+1055|cross|穿越越过|
+1056|carry|背;提;拿|
+1057|heavy|重的;沉的|
+1058|different|不同的|
+1059|bored|无聊的|
+1060|word|单词|
+1061|easy|容易的|
+1062|say|说|
+1063|then|然后那么|
+1064|ask|问|
+1065|answer|回答|
+1066|soon|很快不久|
+1067|each other|互相|
+1068|make phone calls|打电话|
+1070|life|生活|
+1071|living room|客厅|
+1072|bedroom|卧室|
+1073|model plane|飞机模型|
+1074|kitchen|厨房|
+1075|bathroom|浴室卫生间|
+1076|their|他们的;她们的;它们的|
+1077|light|灯光|
+1078|watch|观看观察|
+1079|TV|电视电视机|
+1080|before|在以前|
+1081|bedtime|就寝时间|
+1082|do homework|做家庭作业|
+1083|turn off|关掉|
+1084|watch TV|看电视|
+1085|tell a story|讲故事|
+1087|beach|海滩|
+1088|enjoy|享受的乐趣|
+1089|sunshine|阳光|
+1090|collect|收集|
+1091|sea|海|
+1092|letter|信|
+1093|put|放;安置|
+1094|know|知道|
+1095|year|年岁年|
+1096|on holiday|度假|
+1097|have a good time|玩得高兴|
+1099|outing|远足|
+1100|map|地图|
+1101|hill|小山|
+1102|find|发现找到|
+1103|diamond|钻石|
+1104|another|另一个|
+1105|lake|湖|
+1106|funny|滑稽的好笑的|
+1107|hole|洞|
+1108|key|钥匙|
+1109|think|想|
+1110|at the top of|在顶部|
+1111|get through|通过|
+1113|post office|邮局|
+1114|quite|相当十分|
+1115|along|沿着顺着|
+1116|turn|转向转弯|
+1117|left|左边|
+1118|straight|笔直地|
+1119|right|右边正确的|
+1120|between|在中间|
+1121|flower shop|花店|
+1122|hospital|医院|
+1123|toy shop|玩具店|
+1124|road|路马路|
+1125|get to|到达|
+1127|blow|刮吹|
+1128|gently|和缓地温柔地|
+1129|softly|轻柔地|
+1130|strongly|强劲地|
+1131|happily|快乐地|
+1132|windmill|风车|
+1133|move|使改变位置移动|
+1134|slowly|缓慢地|
+1135|quickly|快地迅速地|
+1136|sound|声音听起来好像|
+1137|wind bell|风铃|
+1138|cut|剪砍切|
+1139|paper|纸纸张|
+1140|quiet|轻声的安静的|
+1142|tap|水龙头|
+1143|use|使用|
+1144|vegetable|蔬菜|
+1145|clothes|衣服服装|
+1146|farmer|农民|
+1147|useful|有用的|
+1148|drop|滴水珠|
+1149|up|向上在上面|
+1150|shine|照耀|
+1151|over|在上方|
+1152|mountain|山山脉|
+1153|tree ground|树地面|
+1154|inside|在里面|
+1155|grow crops|种庄稼|
+1156|put out fires|灭火|
+1158|fire|火火灾|
+1159|burn|燃烧烧|
+1160|hurt|使受伤|
+1161|must|必须|
+1162|careful|小心的|
+1163|safety|安全|
+1164|smoke|吸烟|
+1165|match|火柴|
+1166|heat|热高温|
+1167|hate|讨厌|
+1168|burn down|烧毁|
+1169|be careful with|当心|
+1170|not at all|一点也不|

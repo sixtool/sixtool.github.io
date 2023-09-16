@@ -1,0 +1,134 @@
+1344|month|一个月的时间月份|
+1345|cute|可爱的|
+1346|pretty|漂亮的|
+1347|handsome|英俊的帅气的|
+1348|turtle|乌龟|
+1349|catch|逮住捕捉|
+1350|fly|苍蝇|
+1351|grow up|长大成长|
+1352|junior high school|初级中学|
+1353|be born|出生|
+1354|famous|著名的;出名的|
+1355|during|在期间|
+1356|spend|度过|
+1357|everyone|每个人所有人|
+1358|countryside|乡村农村|
+1359|pick|采摘|
+1360|summer holiday|暑假|
+1362|healthy|健康的有益于健康的|
+1363|unhealthy|不健康的损害健康的|
+1364|hamburger|汉堡包|
+1365|cola|可乐|
+1366|yesterday|昨天|
+1367|fruit|水果|
+1368|pie|馅饼|
+1369|pizza|比萨饼|
+1370|sandwich|三明治|
+1371|vegetable|蔬菜|
+1372|chicken|鸡肉|
+1373|chocolate|巧克力|
+1374|a little|少量的|
+1375|fish and chips|炸鱼薯条|
+1377|neighbour|邻居|
+1378|son|儿子|
+1379|daughter|女儿|
+1380|noisy|吵闹的|
+1381|owl|猫头鹰|
+1382|dig|挖土掘洞|
+1383|make noise|制造噪音|
+1385|thousand|一千|
+1386|hundred|一百|
+1387|wild|野生环境野生的|
+1388|South China tiger|华南虎|
+1389|blue whale|蓝鲸|
+1390|way|路方式方法|
+1391|die|死死亡|
+1392|rhino|犀牛|
+1393|learn|学会学习|
+1394|send|安排去寄送|
+1395|in danger|面临危险|
+1396|in the past|在过去|
+1397|take care of|照顾照料|
+1398|go for a walk|去散步|
+1399|drive away|赶走|
+1401|e friend|网友|
+1402|country|国家|
+1403|other|其他的|
+1404|team|游泳或运动的队|
+1405|hobby|业余爱好|
+1406|grade|年级|
+1407|yourself|你自己|
+1408|would like|表示意愿喜欢|
+1410|shall|表示提出或征求意见|
+1411|princess|公主|
+1412|police|警方警察部门|
+1413|exciting|令人激动的使人兴奋的|
+1414|brave|勇敢的|
+1415|policeman|警察|
+1416|boring|没趣的令人厌倦的|
+1417|queen|王后|
+1418|mirror|镜子|
+1419|fairest|最美丽的|
+1420|kill|杀死|
+1421|next time|下次|
+1422|asleep|睡着的|
+1423|once upon a time|从前|
+1424|fall asleep|睡着|
+1426|bee|蜜蜂|
+1427|insect|昆虫|
+1428|ant|蚂蚁|
+1429|kind|种类|
+1430|anything|任何东西|
+1431|finger|手指|
+1432|dancer|跳舞者舞蹈演员|
+1433|insect museum|昆虫博物馆|
+1434|car museum|汽车博物馆|
+1435|model car|汽车模型|
+1436|science museum|科学博物馆|
+1437|many kinds of|各种各样的|
+1439|capital|首都|
+1440|north|北北部|
+1441|east|东东部|
+1442|west|西西部|
+1443|south|南南部|
+1444|palace|王宫宫殿|
+1445|most|大多数|
+1446|tourist|游客|
+1447|building|建筑物楼房|
+1448|sushi|寿司|
+1449|in the north of|在北部|
+1450|in the east of|在东部|
+1452|air|空气|
+1453|everywhere|处处到处|
+1454|alive|活着的|
+1455|balloon|气球|
+1456|factory|工厂|
+1457|smoke|烟|
+1458|dirty|脏的|
+1459|clean|干净的洁净的|
+1460|hurt|感到痛|
+1461|fresh|清新的|
+1462|plant|种植|
+1463|keep alive|让活着|
+1464|plant trees|植树|
+1466|wood|木头木材|
+1467|cool|使变凉|
+1468|match|火柴|
+1469|miss|想念|
+1470|look for|寻找|
+1471|have to|不得不,必须|
+1472|cut down|把砍倒|
+1474|Earth|地球|
+1475|part|地区区域|
+1476|forest|森林|
+1477|land|陆地|
+1478|ocean|海洋|
+1479|rubbish|垃圾|
+1480|sick|生病的|
+1481|recycle|回收利用再利用|
+1482|glass|玻璃制品玻璃|
+1483|own|自己的|
+1484|so many|这么多|
+1485|pick up|捡起拾起|
+1486|shopping bag|购物袋|
+1487|plastic bag|塑料袋|

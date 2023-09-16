@@ -1,0 +1,160 @@
+1172|tidy|整理整洁的|
+1173|mess|脏乱不整洁|
+1174|let|让|
+1175|sock|短袜|
+1176|yours|你的你们的|
+1177|cap|帽子|
+1178|mine|我的|
+1179|crayon|彩色蜡笔|
+1180|umbrella|伞|
+1181|nail|钉子|
+1182|drop|使落下掉落|
+1183|stick|粘贴粘住|
+1184|second|秒|
+1185|hers|她的|
+1186|theirs|他们的她们的它们的|
+1187|tidy up|把整理好|
+1188|be full of|装满充满|
+1189|a few|几个一些|
+1191|why|为什么|
+1192|because|因为|
+1193|study|书房学习|
+1194|dining room|餐室餐厅|
+1195|wild goose|大雁|
+1196|change|改变变化|
+1197|place|地方|
+1198|twice|两次|
+1199|every|每每个|
+1200|north|北方向北|
+1201|south|南方向南|
+1202|enough|足够的|
+1203|then|然后|
+1204|all day|一天到晚|
+1206|future|将来未来|
+1207|stand|站站住|
+1208|machine|机器|
+1209|will|将将会|
+1210|exercise|运动锻炼活动|
+1211|early|早提早|
+1212|hard|努力地|
+1213|more|更多的|
+1214|in the future|将来|
+1215|in front of|在前面|
+1216|take a photo|拍照|
+1217|wear glasses|戴眼镜|
+1218|do exercise|做运动|
+1219|be weak in|不擅长|
+1220|not any more|不再|
+1222|storybook|故事书|
+1223|buy|买|
+1224|story|故事|
+1225|dictionary|字典词典|
+1226|magazine|杂志|
+1227|newspaper|报纸|
+1228|week|周星期|
+1229|student|学生|
+1230|poster|海报|
+1231|best|最好的|
+1232|writer|作家|
+1233|over there|在那边|
+1234|do a survey|做调查|
+1235|act out|表演|
+1237|weekend|周末|
+1238|stay|待暂住逗留|
+1239|film|电影|
+1240|boat|小船|
+1241|plan|安排计划|
+1242|tomorrow|明天|
+1243|build|建筑建造|
+1244|next|紧接着随后紧接着的|
+1245|swing|秋千|
+1246|cry|哭喊叫|
+1247|until|直到|
+1248|see a film|看电影|
+1249|row a boat|划船|
+1251|holiday|假日假期|
+1252|clear|清澈的|
+1253|seafood|海鲜|
+1254|hotel|旅馆|
+1255|island|岛|
+1256|butterfly|蝴蝶|
+1257|how long|多久|
+1258|go swimming|去游泳|
+1259|in the south of|在的南部|
+1260|all year round|一年到头|
+1262|meet|迎接会见|
+1263|school gate|校门校门口|
+1264|art room|美术室|
+1265|hall|礼堂|
+1266|finally|最后|
+1267|meeting room|会客室会议室|
+1268|show|给看|
+1269|project|课题|
+1270|board|布告牌木板|
+1272|which|哪一个哪一些|
+1273|trousers|裤子|
+1274|size|尺码|
+1275|sweater|毛衣|
+1276|coat|外套大衣|
+1277|shoe|鞋|
+1278|emperor|皇帝|
+1279|only|只有仅|
+1280|nod|点头|
+1281|smile|笑容微笑|
+1282|money|钱|
+1283|keep|保持|
+1284|laugh|大笑|
+1285|try on|试穿衣物|
+1286|put on|穿戴|
+1287|keep quiet|保持安静|
+1288|have a look|看一看|
+1290|ill|生病的不舒服|
+1291|wrong|有毛病不正常错误的|
+1292|headache|头痛|
+1293|fever|发烧发热|
+1294|should|应该|
+1295|medicine|药|
+1296|rest|休息|
+1297|toothache|牙痛|
+1298|toothless|没有牙齿的|
+1299|present|礼物|
+1300|world|世界|
+1301|dentist|牙医|
+1302|have a headache|头疼|
+1303|have a fever|发烧|
+1304|have a cold|感冒|
+1305|have a rest|休息一下|
+1306|get well|康复|
+1307|have a toothache|牙疼|
+1308|have a meeting|开会|
+1309|pull out|把拔出|
+1311|invention|发明创造|
+1312|watch|手表|
+1313|anywhere|任何地方|
+1314|travel|旅行长途行走|
+1315|invent|发明|
+1316|something|某事某物|
+1317|myself|我自己|
+1318|camera f|相机|
+1319|far away from|远离|
+1321|festival|节日|
+1322|important|重要的|
+1323|call|把叫做|
+1324|dumpling|饺子|
+1325|relative|亲戚|
+1326|red packet|红包|
+1327|firework|烟火烟花|
+1328|monster|怪物|
+1329|end|结尾结束|
+1330|village|村庄|
+1331|last|最后的|
+1332|firecracker|鞭炮爆竹|
+1333|mooncake|月饼|
+1334|at the end of|在的最后|
+1336|giant|巨人|
+1337|wall|墙围墙|
+1338|kind|友好的体贴的|
+1339|through|穿过|
+1340|no entry|禁止进入|
+1341|be kind to|对友好|
+1342|Knock down|推倒拆掉|
