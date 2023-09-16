@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+publishDir = "docs"
 [server]
 bind = "0.0.0.0"
 title = "My New Hugo Site"
