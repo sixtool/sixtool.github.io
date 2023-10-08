@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools on </title>
+    <link>http://example.org/school/</link>
+    <description>Recent content in Schools on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1年级上册</title>
+      <link>http://example.org/school/primary/grade1-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade1-1/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>1年级下册</title>
+      <link>http://example.org/school/primary/grade1-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade1-2/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>2年级上册</title>
+      <link>http://example.org/school/primary/grade2-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade2-1/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>2年级下册</title>
+      <link>http://example.org/school/primary/grade2-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade2-2/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>3年级上册</title>
+      <link>http://example.org/school/primary/grade3-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade3-1/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>3年级下册</title>
+      <link>http://example.org/school/primary/grade3-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade3-2/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>4年级上册</title>
+      <link>http://example.org/school/primary/grade4-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade4-1/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>4年级下册</title>
+      <link>http://example.org/school/primary/grade4-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade4-2/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>5年级上册</title>
+      <link>http://example.org/school/primary/grade5-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade5-1/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>5年级下册</title>
+      <link>http://example.org/school/primary/grade5-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade5-2/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>6年级上册</title>
+      <link>http://example.org/school/primary/grade6-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade6-1/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+    <item>
+      <title>6年级下册</title>
+      <link>http://example.org/school/primary/grade6-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/school/primary/grade6-2/</guid>
+      <description>{{/* Hugo template code to read the data file */}}</description>
+    </item>
+    
+  </channel>
+</rss>

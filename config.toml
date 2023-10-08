@@ -7,61 +7,11 @@ title = "My New Hugo Site"
 [markup.goldmark.renderer]
   unsafe = true
 [[menu.main]]
-name = "一年级上册"
+name = "学校课本"
 weight = 1
-url = "/grade1-1"
+url = "/school"
 
 [[menu.main]] 
-name = "一年级下册"
+name = "电影字幕"
 weight = 1
-url = "/grade1-2"
-
-[[menu.main]] 
-name = "二年级上册"
-weight = 2 
-url = "/grade2-1"
-
-[[menu.main]] 
-name = "二年级下册" 
-url = "/grade2-2"
-weight = 2
-
-[[menu.main]]
-name = "三年级上册"
-weight = 3
-url = "/grade3-1"
-
-[[menu.main]] 
-name = "三年级下册"
-weight = 3 
-url = "/grade3-2"
-
-[[menu.main]] 
-name = "四年级上册"
-weight = 4 
-url = "/grade4-1"
-
-[[menu.main]] 
-name = "四年级下册"
-weight = 4 
-url = "/grade4-2"
-
-[[menu.main]] 
-name = "五年级上册"
-weight = 5 
-url = "/grade5-1"
-
-[[menu.main]] 
-name = "五年级下册"
-weight = 5 
-url = "/grade5-2"
-
-[[menu.main]] 
-name = "六年级上册"
-weight = 6 
-url = "/grade6-1"
-
-[[menu.main]] 
-name = "六年级下册"
-weight = 6 
-url = "/grade6-2"
+url = "/movie"

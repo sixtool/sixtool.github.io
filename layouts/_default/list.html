@@ -1,0 +1,19 @@
+{{ define "main" }}
+    {{ if in .RelPermalink "school" }}
+        <h1>学校相关链接</h1>
+        <ul>
+            {{ range where .Site.Menus.main "URL" "/school" }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    {{ else if in .RelPermalink "movie" }}
+        <h1>电影相关链接</h1>
+        <ul>
+            {{ range where .Site.Menus.main "URL" "/movie" }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    {{ else }}
+        <!-- 其他默认内容可以放在这里 -->
+    {{ end }}
+{{ end }}

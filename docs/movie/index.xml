@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>movies on </title>
+    <link>http://example.org/movie/</link>
+    <description>Recent content in movies on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 18:13:47 +0800</lastBuildDate><atom:link href="http://example.org/movie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mla</title>
+      <link>http://example.org/movie/mla/</link>
+      <pubDate>Fri, 06 Oct 2023 18:13:47 +0800</pubDate>
+      
+      <guid>http://example.org/movie/mla/</guid>
+      <description>**﻿1. 00:00:16,513 -- 00:00:18,578 翻译：大旺财 **  您的浏览器不支持音频播放  **2. 00:00:30,112 -- 00:00:32,747 照明娱乐公司 Illumination!**  您的浏览器不支持音频播放  **3. 00:02:17,111 -- 00:02:21,884 看哪 库巴国大王 Behold! The king of the Koopas!**  您的浏览器不支持音频播放  **4. 00:02:47,545 -- 00:02:51,083 把门打开，否则死 Open the gates or die.**  您的浏览器不支持音频播放  **5. 00:03:11,604 -- 00:03:14,575 进攻 Attack!**  您的浏览器不支持音频播放  **6. 00:03:28,325 -- 00:03:31,194 这只是我们愤怒的冰山一角 That is but a taste of our fury.**  您的浏览器不支持音频播放  **7.</description>
+    </item>
+    
+  </channel>
+</rss>

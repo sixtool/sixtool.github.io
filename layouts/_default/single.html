@@ -1,4 +1,6 @@
 {{ define "main" }}
+    {{ if in .RelPermalink "school" }}
+     
     {{ $dataFile := .Params.dataFile }}
     {{ with $dataFile }}
         {{ $filePath := printf "data/%s.txt" . }}
@@ -26,6 +28,13 @@
         <p>没有找到相关的数据文件。</p>
     {{ end }}
 
+    {{ else if in .RelPermalink "movie" }}
+       {{ .Content }}
+    {{ else }}
+        <!-- 默认内容 -->
+        <p>欢迎来到主页</p>
+    {{ end }}
+
     <script>
       function playAudio(url) {
         let audio = new Audio(url);
@@ -34,4 +43,7 @@
     </script>
     
 {{ end }}
+
+
+ 
 

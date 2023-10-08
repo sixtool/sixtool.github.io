@@ -3,32 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2023-10-06T18:13:47+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/grade1-1/</loc>
+    <loc>http://example.org/movie/mla/</loc>
+    <lastmod>2023-10-06T18:13:47+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/grade1-2/</loc>
+    <loc>http://example.org/movie/</loc>
+    <lastmod>2023-10-06T18:13:47+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/grade2-1/</loc>
+    <loc>http://example.org/school/primary/grade1-1/</loc>
   </url><url>
-    <loc>http://example.org/grade2-2/</loc>
+    <loc>http://example.org/school/primary/grade1-2/</loc>
   </url><url>
-    <loc>http://example.org/grade3-1/</loc>
+    <loc>http://example.org/school/primary/grade2-1/</loc>
   </url><url>
-    <loc>http://example.org/grade3-2/</loc>
+    <loc>http://example.org/school/primary/grade2-2/</loc>
   </url><url>
-    <loc>http://example.org/grade4-1/</loc>
+    <loc>http://example.org/school/primary/grade3-1/</loc>
   </url><url>
-    <loc>http://example.org/grade4-2/</loc>
+    <loc>http://example.org/school/primary/grade3-2/</loc>
   </url><url>
-    <loc>http://example.org/grade5-1/</loc>
+    <loc>http://example.org/school/primary/grade4-1/</loc>
   </url><url>
-    <loc>http://example.org/grade5-2/</loc>
+    <loc>http://example.org/school/primary/grade4-2/</loc>
   </url><url>
-    <loc>http://example.org/grade6-1/</loc>
+    <loc>http://example.org/school/primary/grade5-1/</loc>
   </url><url>
-    <loc>http://example.org/grade6-2/</loc>
+    <loc>http://example.org/school/primary/grade5-2/</loc>
+  </url><url>
+    <loc>http://example.org/school/primary/grade6-1/</loc>
+  </url><url>
+    <loc>http://example.org/school/primary/grade6-2/</loc>
   </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/school/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url>
